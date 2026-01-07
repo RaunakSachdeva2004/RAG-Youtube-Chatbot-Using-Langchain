@@ -2,7 +2,8 @@
 
 A powerful Retrieval-Augmented Generation (RAG) application that allows users to "chat" with any YouTube video. By simply providing a video URL, the system processes the transcript and lets you ask questions, receiving accurate answers based specifically on the video's content.
 
-### Video Demo - https://drive.google.com/file/d/1ZfX0vzb034Nd81FO5uVMzRQTGGsw1OSr/view?usp=sharing
+
+**[Video Demo](https://drive.google.com/file/d/1ZfX0vzb034Nd81FO5uVMzRQTGGsw1OSr/view?usp=sharing)**
 
 ## 📖 Overview
 
