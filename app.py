@@ -21,6 +21,7 @@ st.title("🤖 Chat with YouTube Videos")
 with st.sidebar:
     st.header("Settings")
     video_url = st.text_input("Enter YouTube Video URL/ID:")
+    manual_transcript = st.text_area("Or paste transcript manually (if fetching fails):") # Add this
     process_button = st.button("Process Video")
 
     st.markdown("---")
